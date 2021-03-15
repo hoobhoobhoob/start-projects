@@ -8,6 +8,8 @@ Hier werden die Aufgaben alle angezeigt.
 
 Wenn ihr euren Code hinzufügen wollt öffnet dazu eine Pull request.
 
+Zudem solltt ihr in dem Namen der Datei am Anfang euren Github-namen einbauen. Z.B. "Kuna42_[dateiname]"
+
 ### Richtlinien
 
 Meine Anforderungen an euren Code sind dazu da, damit ich nicht Kryptographie studiert haben muss um ihn zu entziffern.
